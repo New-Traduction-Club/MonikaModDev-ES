@@ -22,6 +22,8 @@ Por favor, revisa la página de [Descargas](https://papuweb.wixsite.com/monikaaf
 
 Para más ayuda con la instalación, puedes unirte a [nuestro servidor de Discord](https://discord.gg/usKs37Sh5S).
 
+ [![Discord](https://discordapp.com/api/guilds/856018133264498718/widget.png?style=banner1)](https://discord.gg/usKs37Sh5S)
+
 ### Características
 
 * ¡Pasa la eternidad con Monika!
