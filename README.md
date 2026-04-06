@@ -6,11 +6,11 @@ MAS ha sido traducido al español por Traduction Club!
 
 Esta traducción no es oficial, si deseas descargar el mod original en inglés puedes hacerlo desde está [página](http://www.monikaafterstory.com/releases.html).
 
-Por favor, revisa la página de [Lanzamientos](https://papuweb.wixsite.com/monikaafterstoryesp/descargas) para obtener la versión traducida, estable y más reciente.
+Por favor, revisa la página de [Descargas](https://papuweb.wixsite.com/monikaafterstoryesp/descargas) para obtener la versión traducida, estable y más reciente.
 
 ### Instalación
 
-1. Navega a la [página de lanzamientos](https://papuweb.wixsite.com/monikaafterstoryesp/descargas).
+1. Navega a la [página de descargas](https://papuweb.wixsite.com/monikaafterstoryesp/descargas).
 
 2. Haz clic en el enlace del **Zip** deseado. Esto descargará un fichero zip a tu ordenador.
 
